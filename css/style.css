@@ -1701,29 +1701,3 @@ h1, h2, h3, h4, h5{
             margin-bottom: 1em;
         }
     
-        /*footer top section*/
-        .email-input{
-            width: 70%;
-        }
-        .arrow-right-submit{
-            right: 20%;
-        }
-        .footer-decoration-right{
-            transform: translate(75%,-70%);
-            overflow: hidden;
-        }
-        .footer-menus{
-            text-align: center;
-        }
-        .footer-menus-support{
-            padding-left: 2em;
-        }
-        .link-item{
-            justify-content: center;
-        }
-    
-        /*footer bottom section*/
-        .footer-bottom img{
-            display: none;
-        }
-  }
